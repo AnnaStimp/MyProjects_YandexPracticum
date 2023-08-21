@@ -3,18 +3,18 @@
 
 ## Data
 
-- ``children`" — the number of children in the family
+- ``children`` — the number of children in the family
 - ``days_employed`` — total work experience in days
-- ``dob_years"` — client's age in years
+- ``dob_years`` — client's age in years
 - ``education`` — the level of education of the client
 - ``education_id`` — identifier of the level of education
 - ``family_status`` — marital status
 - ``family_status_id`` — id of marital status
 - ``gender`` — the gender of the client
-- ``income_type"` — type of employment
+- ``income_type`` — type of employment
 - ``debt`` — whether there was a debt on repayment of loans
-- ``total_income`" — monthly income
-- ``purpose`" — the purpose of obtaining a loan
+- ``total_income`` — monthly income
+- ``purpose`` — the purpose of obtaining a loan
 
 ## Task
 
