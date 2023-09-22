@@ -1,7 +1,5 @@
 # My projects completed during my studies at Yandex Practicum as a Data Analyst
+# Мои проекты, выполненные во время учебы в Яндекс Практикуме на аналитика данных
 
-#### Project description table with hyperlinks
-
-| Project name       | Description               | Libraries used     |
-| :--------------------: | :--------------------- |:---------------------------:|
-| Investigation of the reliability of borrowers    | The credit department of the bank needs to figure out whether the marital status and the number of children of the client affects the fact of repayment of the loan on time. | *pandas* |
+There are two versions: in Russian and English, located in the corresponding folders RUS _version and ENG_version.
+Есть две версии: на русском и английском языку, находятся в соответсвующих папках RUS _version  и ENG_version.
