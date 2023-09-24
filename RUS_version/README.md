@@ -1,7 +1,8 @@
-# My projects completed during my studies at Yandex Practicum as a Data Analyst
+# Мои проекты, выполненные во время учебы в Яндекс Практикуме на аналитика данных
 
-#### Project description table with hyperlinks
+#### Таблица описания проекта с гиперссылками
 
-| Project name       | Description               | Libraries used     |
+| Наименование проекта       | Описание               | Использующиеся библиотеки     |
 | :--------------------: | :--------------------- |:---------------------------:|
-| Investigation of the reliability of borrowers    | The credit department of the bank needs to figure out whether the marital status and the number of children of the client affects the fact of repayment of the loan on time. | *pandas* |
+| Исследование надежности заемщиков    | Кредитному отделу банка необходимо разобраться, влияет ли семейное положение и количество детей клиента на факт своевременного погашения кредита. | *pandas* |
+| Исследование объявлений о продаже квартир | Нужно научиться определять рыночную стоимость объектов недвижимости. | *pandas*, *matplotlib.pyplot*
