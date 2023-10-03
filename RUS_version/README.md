@@ -6,3 +6,4 @@
 | :--------------------: | :--------------------- |:---------------------------:|
 | [Исследование надежности заемщиков](https://github.com/AnnaStimp/MyProjects_YandexPracticum/tree/main/RUS_version/reliability_of_borrowers)    | Кредитному отделу банка необходимо разобраться, влияет ли семейное положение и количество детей клиента на факт своевременного погашения кредита. | *pandas* |
 | [Исследование объявлений о продаже квартир](https://github.com/AnnaStimp/MyProjects_YandexPracticum/tree/main/RUS_version/apartments_for_sale) | Нужно научиться определять рыночную стоимость объектов недвижимости. | *pandas*, *matplotlib.pyplot*
+| Исследование сервиса аренды самокатов GoFast | Нужно проанализировать данные и проверить некоторые гипотезы, которые могут помочь бизнесу вырасти. | *pandas*, *matplotlib*, *numpy*, *scipy*, *math*
