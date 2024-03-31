@@ -2,7 +2,10 @@
 
 
 ## Task
-Conduct a data exploratory analysis to identify parameters influencing property prices. This automated will enable the development of an system capable of detecting anomalies and fraudulent activities.
+Conduct exploratory data analysis to identify parameters influencing real estate prices. This automation will enable the development of a system capable of detecting anomalies and fraudulent activities.
+
+## Result
+I pre-processed the data, identified dependencies in the data and gave recommendations to the business on what to improve when collecting data and what to pay attention to when building an automated system for analyzing the price of a property.
 
 ## Field of activity
 Internet services; Ad platforms

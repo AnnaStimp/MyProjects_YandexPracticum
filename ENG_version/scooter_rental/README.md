@@ -2,7 +2,10 @@
 
 
 ## Task
-See the connection between the client’s marital status, the number of children and the fact of timely repayment of the loan. The results of the study will be taken into account when constructing a credit scoring model - a special system that assesses the ability of a potential borrower to repay a loan to the bank.
+We need to analyze the data and test some hypotheses that can help the business grow.
+
+## Result
+I received and pre-processed the data, conducted exploratory data analysis, on the basis of which I drew conclusions about the behavior of users from different groups, then, to consolidate the results, I conducted statistical tests.
 
 ## Field of activity
 Telecom
